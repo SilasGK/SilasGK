@@ -2,6 +2,17 @@
 
 🌱 I’m currently learning Machine Learning with fastai
 
+#### ⚡ Technologies:
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
+```
+![Visitor Count](https : //profile-counter.glitch.me/{SilasGK}/count.svg)
+```
 <!--
 **SilasGK/SilasGK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
