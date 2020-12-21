@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Machine Learning with fastai
+:gear: Mechanical Engineering Student
+
+🌱 I’m currently learning fastai
 
 #### ⚡ Technologies:
 
