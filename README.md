@@ -10,9 +10,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-```
-![Visitor Count](https : //profile-counter.glitch.me/{SilasGK}/count.svg)
-```
 <!--
 **SilasGK/SilasGK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
