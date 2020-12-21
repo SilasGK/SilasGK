@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-:gear: Mechanical Engineering Student
+:gear: Mechanical Engineering Student at <a href="https://www.rwth-aachen.de/go/id/a/">RWTH Aachen</a></br>
 
 🌱 I’m currently learning fastai
 
-#### ⚡ Technologies:
-
+⚡ Technologies:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
