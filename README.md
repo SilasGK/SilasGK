@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning fastai
 
+🔭 I’m currently working on a Machine Learning project at [TechLabs Aachen](https://www.techlabs.org/location/aachen)
+
 ⚡ Technologies:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
