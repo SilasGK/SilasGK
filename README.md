@@ -2,9 +2,7 @@
 
 :gear: Mechanical Engineering Student at <a href="https://www.rwth-aachen.de/go/id/a/">RWTH Aachen</a></br>
 
-🌱 I’m currently learning fastai
-
-🔭 I’m currently working on a Machine Learning project at [TechLabs Aachen](https://www.techlabs.org/location/aachen)
+🔭 I’m currently mentoring a Machine Learning project at [TechLabs Aachen](https://www.techlabs.org/location/aachen)
 
 ⚡ Technologies:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
